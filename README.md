@@ -1,1 +1,1 @@
-# Fisher-s-linear-discriminant-analysis-LDA
+# Fisher-linear-discriminant-analysis-LDA
